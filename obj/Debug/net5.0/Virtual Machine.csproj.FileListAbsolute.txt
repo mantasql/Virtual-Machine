@@ -1,0 +1,16 @@
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.exe
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.deps.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.runtimeconfig.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.runtimeconfig.dev.json
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\ref\Virtual Machine.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\bin\Debug\net5.0\Virtual Machine.pdb
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.AssemblyInfoInputs.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.AssemblyInfo.cs
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.csproj.CoreCompileInputs.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\ref\Virtual Machine.dll
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.pdb
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.genruntimeconfig.cache
+C:\Users\thede\Desktop\All programs\Visual Studio Code\C# programming\Virtual Machine\obj\Debug\net5.0\Virtual Machine.csproj.AssemblyReference.cache
